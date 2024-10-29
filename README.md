@@ -18,7 +18,8 @@ I'm Banish A, a recent graduate in Computer Science and Engineering from Yenepoy
           <a href="https://www.instagram.com/ba_n_ish/?next=%2F" target="_blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="Instagram" height="40" width="40" /></a>
 </p>
     <p align="center">
-        <a href="buymeacoffee.com/banishoneds" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
+        <a href="buymeacoffee.com/banishoneds
+" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
     </p>
     <p align="center">
   <samp>
