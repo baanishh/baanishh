@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Munavvar+sinan;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Freelancer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Banish+A;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Freelancer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
     <p align="center">
      <samp>
@@ -14,9 +14,8 @@ I'm Banish A, a recent graduate in Computer Science and Engineering from Yenepoy
     <p align="center">
 <a href="https://www.linkedin.com/in/banish3737/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="aksia" height="30" width="40" /></a>
  <a href = "mailto: banishonedirection@gmail.com"><img align="center" src="https://cdn.simpleicons.org/gmail/white" height="30" width="40" /></a>
-         <a href="https://x.com/BENNY9016" target="_blank"><img align="center" src="https://cdn.simpleicons.org/twitter/white" alt="Twitter" height="30" width="40" /></a>
          <a href="https://www.instagram.com/ba_n_ish/?next=%2F" target="_blank"><img align="center" src="https://cdn.simpleicons.org/instagram/white" alt="Instagram" height="30" width="40" /></a>
-          <a href="https://dev.to/munavvarsinan" target="_blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="Instagram" height="40" width="40" /></a>
+          <a href="https://www.instagram.com/ba_n_ish/?next=%2F" target="_blank"><img align="center" src="https://cdn.simpleicons.org/dev.to/white" alt="Instagram" height="40" width="40" /></a>
 </p>
     <p align="center">
         <a href="https://www.buymeacoffee.com/baanishh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="garbinmarcelo" /></a>
@@ -58,4 +57,3 @@ I'm Banish A, a recent graduate in Computer Science and Engineering from Yenepoy
 
 <h3 align='center'>Thank You!!!!!</h2>
 <hr>
-
