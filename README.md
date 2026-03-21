@@ -6,10 +6,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Banish+A;Computer+Science+Engineering+Student;Full+Stack+Web+Developer;Freelancer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
     <p align="center">
-     <samp>
-I'm Banish A, a recent graduate in Computer Science and Engineering from Yenepoya Institute of Technology. Bringing ideas to life, one line of code at a time. As a developer specializing in Next.js, Node.js, Tailwind CSS, and TypeScript, I turn your vision into reality. I have a passion for building secure, scalable, and high-performing server-side applications that keep your users happy. With my eye for detail and commitment to quality, I bring your projects to life in a way that's efficient and maintainable. I also utilize Docker to streamline development and deployment processes. In my free time, I enjoy sharing my tech knowledge through writing blogs. I'm always on the hunt for new challenges and opportunities to grow, so bring on the next big thing! Let's make digital dreams a reality together.
-     <br><br>
-  </samp>
+    <samp>
+I'm Banish A, a Frontend & Mobile Engineer with 1+ year of production experience. I specialize in building scalable web applications with Next.js, React.js, and TypeScript, and cross-platform mobile apps with React Native (Expo). I've shipped production features serving 100,000+ users across real estate and fundraising SaaS platforms — from role-based dashboards to third-party API and payment gateway integrations. I'm passionate about clean architecture, performance optimization, and delivering high-quality products. Always chasing the next challenge — let's build something great together.
+<br><br>
+</samp>
   </p>
     <p align="center">
 <a href="https://www.linkedin.com/in/banish3737/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/white" alt="aksia" height="30" width="40" /></a>
