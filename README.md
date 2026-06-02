@@ -41,7 +41,7 @@ I'm Banish A, a Frontend & Mobile Engineer with 2+ year of production experience
     <br/>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb,mongodb,python,fastapi,postgresql,mysql,typescript,expo,androidstudio,docker,html,css,devto,express,figma,git,heroku,js,ts,jest,nestjs,redux,vercel,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,mongodb,python,fastapi,postgresql,mysql,typescript,androidstudio,docker,html,css,devto,express,figma,git,heroku,js,ts,jest,nestjs,redux,vercel,vscode&perline=10" />
   </a>
   <samp>
      <br>Languages and tools
