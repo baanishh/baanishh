@@ -7,7 +7,7 @@
 </p>
     <p align="center">
     <samp>
-I'm Banish A, a Frontend & Mobile Engineer with 1+ year of production experience. I specialize in building scalable web applications with Next.js, React.js, and TypeScript, and cross-platform mobile apps with React Native (Expo). I've shipped production features serving 100,000+ users across real estate and fundraising SaaS platforms — from role-based dashboards to third-party API and payment gateway integrations. I'm passionate about clean architecture, performance optimization, and delivering high-quality products. Always chasing the next challenge — let's build something great together.
+I'm Banish A, a Frontend & Mobile Engineer with 2+ year of production experience. I specialize in building scalable web applications with Next.js, React.js, Python and TypeScript, and cross-platform mobile apps with React Native (Expo and CLI). I've shipped production features serving 100,000+ users across real estate and fundraising SaaS platforms — from role-based dashboards to third-party API and payment gateway integrations. I'm passionate about clean architecture, performance optimization, and delivering high-quality products. Always chasing the next challenge — let's build something great together.
 <br><br>
 </samp>
   </p>
